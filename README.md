@@ -13,12 +13,11 @@ Built with:
 
 ## How to Run
 
-terminal :
-PS C:\Users\(computer location)> python main.py
+```bash
+PS C:\Users\<computer_location>> python main.py
 
 ## Project Structure
 
-algorithms/ --> backtracking and genetic solvers
-core/ --> Board logic
-gui/ --> Tkinter GUI
-main.py --> Application entry point
+algorithms/          --> backtracking and genetic solvers core
+board_logic_gui/     --> Board logic and GUI elements
+main.py              --> Application entry point (Tkinter GUI)
