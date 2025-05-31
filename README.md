@@ -15,9 +15,12 @@ Built with:
 
 ```bash
 PS C:\Users\<computer_location>> python main.py
+```
 
 ## Project Structure
 
+```bash
 algorithms/          --> backtracking and genetic solvers core
 board_logic_gui/     --> Board logic and GUI elements
 main.py              --> Application entry point (Tkinter GUI)
+```
